@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/jhirono-todomcp-badge.png)](https://mseep.ai/app/jhirono-todomcp)
+
 # Microsoft To Do MCP
 
 This MCP (Model Context Protocol) service allows you to interact with Microsoft To Do tasks using an AI assistant.
